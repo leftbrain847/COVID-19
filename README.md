@@ -1,3 +1,3 @@
 # COVID-19
 Tracking stats related to COVID-19
-https://leftbrain847.github.io/COVID-19/Charts.html
+https://leftbrain847.github.io/COVID-19/Covid-19.html
